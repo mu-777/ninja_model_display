@@ -1,0 +1,8 @@
+<library path="lib/libninja_model_display">
+  <class name="my_rviz_plugin/NinjaModelDisplay" type="rviz::NinjaModelDisplay"
+         base_class_type="rviz::MessageFilterDisplay">
+    <description>
+      Displays.
+    </description>
+  </class>
+</library>
